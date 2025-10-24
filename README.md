@@ -1,12 +1,5 @@
-# Outubro Rosa
 
-# 🎀 Outubro Rosa — Conscientização e Prevenção 💗
-
-![Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Outubro_Rosa_-_Campanha_de_Preven%C3%A7%C3%A3o_ao_C%C3%A2ncer_de_Mama.png/800px-Outubro_Rosa_-_Campanha_de_Preven%C3%A7%C3%A3o_ao_C%C3%A2ncer_de_Mama.png)
-
-> 💬 *"Conscientizar é salvar vidas."*
-
----
+# Outubro Rosa — Conscientização e Prevenção 💗
 
 ## 🩷 Sobre o Projeto
 
@@ -41,4 +34,3 @@ O site é composto por:
 
 ---
 
-## 📂 Estrutura de Pastas
